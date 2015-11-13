@@ -1,0 +1,18 @@
+[app/ui]
+version = 6.2.1
+modtime = 1436244276.255706000
+
+[app/launcher]
+version = 6.2.1
+modtime = 1436244276.257183000
+
+[nav/default]
+version = 6.2.1
+modtime = 1436368278.822053000
+
+[views/trend_line]
+access = read : [ * ]
+export = system
+owner = admin
+version = 6.2.1
+modtime = 1441458238.786108000

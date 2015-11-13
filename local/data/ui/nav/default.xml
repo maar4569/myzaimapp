@@ -1,0 +1,26 @@
+<nav search_view="search" color="#65A637">
+<!--  <view name="search" default='true' />
+  <view name="data_models" />
+  <view name="reports" />
+  <view name="alerts" />
+  <view name="dashboards" />
+  -->
+  <collection label="Monthly Report">
+    <view name="this_month" default="true" />
+  </collection>
+  <collection label="Anual Report">
+    <view name="share" />
+  </collection>
+  <collection label="Summary">
+    <view name="trend_line" />
+    <view name="yearly_trend" />
+  </collection>
+  <collection label="InfoGraphics">
+  </collection>
+
+  
+  <!--<collection label="Search">
+        <view name="search" />
+    </collection>-->
+
+</nav>

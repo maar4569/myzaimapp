@@ -1,0 +1,22 @@
+.single-value .single-result{
+  color: blue;
+  font-size: 14ex;
+  font-family:'Gulim';
+}
+.app-bar.shared-appbar {
+  background-color: blue;
+}
+#element1 {
+  background-image: url('food.png');
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 40px 40px;
+  
+}
+.panel-title {
+  background-color: blue;
+}
+/* can not change panel width...
+#panel3 {
+  width: 20%;
+}*/
